@@ -1,0 +1,33 @@
+
+            body{
+                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-size: 20px;
+                
+                border: 20px black solid;
+                margin: auto;
+                width: 660px;
+                padding: 20px;
+
+            }
+            #name{
+                color: red
+            }
+            .no_bullet{
+                list-style-type: none;
+            }
+            
+            #lil{
+                padding-top: 15px;
+            }
+            fieldset{
+                width: 320px;
+                
+               
+            }
+            #skills{
+                font-size: large;
+            }
+            #cert{
+                font-size: 15px;
+            }
+            
